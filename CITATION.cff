@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+title: >-
+  Analysis code and data for "Light, photoperiod and temperature drive growth,
+  functional, and secondary sexual dimorphism modulations in yerba mate"
+message: >-
+  If you use this software or the accompanying data, please cite both this
+  repository and the article listed under preferred-citation.
+type: software
+authors:
+  - given-names: Miroslava
+    family-names: Rakočević
+    email: mima.rakocevic61@gmail.com
+    affiliation: >-
+      State University of Northern Rio de Janeiro, Campos dos Goytacazes, Brazil
+  - given-names: Dzidefo
+    family-names: Alomenu
+    email: calormenu@gmail.com
+    affiliation: >-
+      Pontificia Universidade Catolica do Parana, Curitiba, Brazil
+version: 1.0.0
+date-released: '2026-09-17'
+license: MIT
+keywords:
+  - female
+  - male
+  - agroforestry
+  - Monoculture
+  - gradient boosting machine
+  - PPFD
+  - R:FR
+preferred-citation:
+  type: article
+  title: >-
+    Light, photoperiod and temperature drive growth, functional, and secondary
+    sexual dimorphism modulations in yerba mate — New insights provided by
+    machine learning
+  authors:
+    - given-names: Miroslava
+      family-names: Rakočević
+    - given-names: Dzidefo
+      family-names: Alomenu
+  journal: Frontiers in Photobiology
+  year: 2026
