@@ -1,0 +1,41 @@
+Growth,Physiology,r,p,n,sig
+Shoot elongation,A,0.208,0.1858,42,n.s.
+Shoot elongation,gₛ,0.456,0.0024,42,**
+Shoot elongation,E,0.407,0.0075,42,**
+Shoot elongation,WUE,-0.02,0.8976,42,n.s.
+Shoot elongation,iWUE,-0.014,0.931,42,n.s.
+Shoot elongation,LUE,-0.228,0.1466,42,n.s.
+Shoot elongation,ΔT,0.094,0.5547,42,n.s.
+Shoot elongation,Φ,-0.137,0.3855,42,n.s.
+Metamer emission,A,0.201,0.2025,42,n.s.
+Metamer emission,gₛ,0.263,0.0923,42,n.s.
+Metamer emission,E,0.318,0.0398,42,*
+Metamer emission,WUE,-0.062,0.6971,42,n.s.
+Metamer emission,iWUE,0.054,0.7338,42,n.s.
+Metamer emission,LUE,-0.27,0.0835,42,n.s.
+Metamer emission,ΔT,-0.037,0.8173,42,n.s.
+Metamer emission,Φ,-0.228,0.1463,42,n.s.
+Leaf number increase,A,0.327,0.0345,42,*
+Leaf number increase,gₛ,0.428,0.0047,42,**
+Leaf number increase,E,0.361,0.0188,42,*
+Leaf number increase,WUE,0.111,0.4855,42,n.s.
+Leaf number increase,iWUE,0.14,0.378,42,n.s.
+Leaf number increase,LUE,-0.327,0.0343,42,*
+Leaf number increase,ΔT,0.11,0.488,42,n.s.
+Leaf number increase,Φ,-0.261,0.0955,42,n.s.
+Leaf area increase,A,0.16,0.31,42,n.s.
+Leaf area increase,gₛ,0.363,0.0181,42,*
+Leaf area increase,E,0.188,0.2336,42,n.s.
+Leaf area increase,WUE,0.119,0.4545,42,n.s.
+Leaf area increase,iWUE,0.021,0.8946,42,n.s.
+Leaf area increase,LUE,-0.251,0.1086,42,n.s.
+Leaf area increase,ΔT,0.272,0.0812,42,n.s.
+Leaf area increase,Φ,-0.144,0.3634,42,n.s.
+Leaf shed,A,-0.091,0.5652,42,n.s.
+Leaf shed,gₛ,-0.078,0.6228,42,n.s.
+Leaf shed,E,0.1,0.5282,42,n.s.
+Leaf shed,WUE,-0.29,0.0627,42,n.s.
+Leaf shed,iWUE,-0.126,0.4254,42,n.s.
+Leaf shed,LUE,-0.025,0.8767,42,n.s.
+Leaf shed,ΔT,-0.232,0.1385,42,n.s.
+Leaf shed,Φ,-0.086,0.5897,42,n.s.

@@ -1,0 +1,25 @@
+Window,Response,term,df,F,p,eta2,partial_eta2,sig
+Morning,PPFD,Environment,4,299.983,7.954987278054585e-212,0.19446,0.31897,***
+Morning,PPFD,Period,10,46.386,1.6840141307299288e-85,0.07517,0.1533,***
+Morning,PPFD,Environment x Period,40,10.961,2.0327316981763853e-62,0.07105,0.14612,***
+Morning,PPFD,Residuals,2562,,,0.4152,0.38161,
+Morning,R:FR ratio,Environment,4,1244.866,0.0,0.06711,0.65967,***
+Morning,R:FR ratio,Period,10,33.711,3.493222638622042e-62,0.00454,0.116,***
+Morning,R:FR ratio,Environment x Period,40,27.304,2.820554634246128e-166,0.01472,0.29831,***
+Morning,R:FR ratio,Residuals,2569,,,0.03462,-0.07398,
+Midday,PPFD,Environment,4,3413.451,0.0,0.29516,0.78747,***
+Midday,PPFD,Period,10,460.103,0.0,0.09946,0.55528,***
+Midday,PPFD,Environment x Period,40,92.903,0.0,0.08033,0.5021,***
+Midday,PPFD,Residuals,3685,,,0.07966,-0.84485,
+Midday,R:FR ratio,Environment,4,1479.747,0.0,0.0494,0.61656,***
+Midday,R:FR ratio,Period,10,69.468,2.0179491495694016e-130,0.0058,0.15876,***
+Midday,R:FR ratio,Environment x Period,40,34.126,1.2576532607054616e-218,0.01139,0.27051,***
+Midday,R:FR ratio,Residuals,3681,,,0.03072,-0.04583,
+Afternoon,PPFD,Environment,4,318.996,3.728576524697347e-225,0.17144,0.32004,***
+Afternoon,PPFD,Period,10,69.718,4.6961216704198925e-127,0.09367,0.20456,***
+Afternoon,PPFD,Environment x Period,40,12.851,1.4119060928032596e-75,0.06907,0.1594,***
+Afternoon,PPFD,Residuals,2711,,,0.36425,0.316,
+Afternoon,R:FR ratio,Environment,4,1669.005,0.0,0.04058,0.70908,***
+Afternoon,R:FR ratio,Period,10,43.963,1.6053108646977871e-81,0.00267,0.13831,***
+Afternoon,R:FR ratio,Environment x Period,40,32.475,2.3036485279551943e-198,0.0079,0.32169,***
+Afternoon,R:FR ratio,Residuals,2739,,,0.01665,-0.16908,

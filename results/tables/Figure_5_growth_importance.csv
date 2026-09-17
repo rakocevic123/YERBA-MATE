@@ -1,0 +1,81 @@
+Trait,Feature,Label,Category,Importance_pct
+elongation,is_cresc,Phase (growth),Phase,43.9
+elongation,RFR_morning,R:FR morning,Light (low-angle),14.6
+elongation,Tmin,T min,Thermal,12.0
+elongation,night_hours,Night length,Photoperiod,9.4
+elongation,is_male,Sex (male),Sex,5.9
+elongation,Tmax,T max,Thermal,3.0
+elongation,PAR_afternoon,PPFD afternoon,Light (low-angle),2.7
+elongation,RFR_midday,R:FR midday,Light (midday),2.4
+elongation,RFR_afternoon,R:FR afternoon,Light (low-angle),1.5
+elongation,DTR,DTR,Thermal,1.2
+elongation,DLI,DLI,Light (midday),0.9
+elongation,PAR_morning,PPFD morning,Light (low-angle),0.8
+elongation,precip_monthly,Precipitation,Water,0.6
+elongation,GDD,GDD,Thermal,0.5
+elongation,PAR_midday,PPFD midday,Light (midday),0.5
+elongation,is_MO,System,System,0.1
+leaf_area_increase,RFR_morning,R:FR morning,Light (low-angle),55.0
+leaf_area_increase,RFR_afternoon,R:FR afternoon,Light (low-angle),12.8
+leaf_area_increase,night_hours,Night length,Photoperiod,7.6
+leaf_area_increase,is_cresc,Phase (growth),Phase,6.8
+leaf_area_increase,Tmin,T min,Thermal,6.4
+leaf_area_increase,Tmax,T max,Thermal,2.9
+leaf_area_increase,is_male,Sex (male),Sex,2.0
+leaf_area_increase,DTR,DTR,Thermal,1.8
+leaf_area_increase,RFR_midday,R:FR midday,Light (midday),1.1
+leaf_area_increase,PAR_morning,PPFD morning,Light (low-angle),1.1
+leaf_area_increase,PAR_afternoon,PPFD afternoon,Light (low-angle),1.1
+leaf_area_increase,GDD,GDD,Thermal,0.6
+leaf_area_increase,precip_monthly,Precipitation,Water,0.4
+leaf_area_increase,DLI,DLI,Light (midday),0.2
+leaf_area_increase,PAR_midday,PPFD midday,Light (midday),0.1
+leaf_area_increase,is_MO,System,System,0.0
+leaf_increase,RFR_morning,R:FR morning,Light (low-angle),23.5
+leaf_increase,GDD,GDD,Thermal,19.2
+leaf_increase,DTR,DTR,Thermal,12.1
+leaf_increase,is_cresc,Phase (growth),Phase,11.6
+leaf_increase,night_hours,Night length,Photoperiod,10.8
+leaf_increase,is_male,Sex (male),Sex,5.3
+leaf_increase,precip_monthly,Precipitation,Water,3.9
+leaf_increase,PAR_midday,PPFD midday,Light (midday),3.1
+leaf_increase,Tmin,T min,Thermal,2.4
+leaf_increase,PAR_morning,PPFD morning,Light (low-angle),2.2
+leaf_increase,PAR_afternoon,PPFD afternoon,Light (low-angle),1.9
+leaf_increase,RFR_midday,R:FR midday,Light (midday),1.5
+leaf_increase,Tmax,T max,Thermal,1.3
+leaf_increase,RFR_afternoon,R:FR afternoon,Light (low-angle),1.0
+leaf_increase,DLI,DLI,Light (midday),0.2
+leaf_increase,is_MO,System,System,0.1
+leaf_shed,Tmax,T max,Thermal,27.7
+leaf_shed,night_hours,Night length,Photoperiod,17.0
+leaf_shed,is_male,Sex (male),Sex,10.5
+leaf_shed,Tmin,T min,Thermal,9.6
+leaf_shed,RFR_afternoon,R:FR afternoon,Light (low-angle),6.7
+leaf_shed,precip_monthly,Precipitation,Water,6.6
+leaf_shed,PAR_midday,PPFD midday,Light (midday),5.7
+leaf_shed,GDD,GDD,Thermal,3.8
+leaf_shed,DTR,DTR,Thermal,2.8
+leaf_shed,DLI,DLI,Light (midday),2.7
+leaf_shed,PAR_afternoon,PPFD afternoon,Light (low-angle),2.3
+leaf_shed,RFR_morning,R:FR morning,Light (low-angle),2.2
+leaf_shed,PAR_morning,PPFD morning,Light (low-angle),1.2
+leaf_shed,RFR_midday,R:FR midday,Light (midday),0.9
+leaf_shed,is_MO,System,System,0.3
+leaf_shed,is_cresc,Phase (growth),Phase,0.1
+metamer_emission,night_hours,Night length,Photoperiod,46.2
+metamer_emission,GDD,GDD,Thermal,12.5
+metamer_emission,is_male,Sex (male),Sex,8.3
+metamer_emission,RFR_morning,R:FR morning,Light (low-angle),7.4
+metamer_emission,is_cresc,Phase (growth),Phase,5.2
+metamer_emission,Tmin,T min,Thermal,3.7
+metamer_emission,PAR_morning,PPFD morning,Light (low-angle),3.2
+metamer_emission,DTR,DTR,Thermal,3.2
+metamer_emission,RFR_midday,R:FR midday,Light (midday),2.8
+metamer_emission,PAR_midday,PPFD midday,Light (midday),2.6
+metamer_emission,RFR_afternoon,R:FR afternoon,Light (low-angle),1.6
+metamer_emission,precip_monthly,Precipitation,Water,1.1
+metamer_emission,PAR_afternoon,PPFD afternoon,Light (low-angle),1.0
+metamer_emission,Tmax,T max,Thermal,0.8
+metamer_emission,DLI,DLI,Light (midday),0.5
+metamer_emission,is_MO,System,System,0.0
