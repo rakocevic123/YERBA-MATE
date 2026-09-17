@@ -1,0 +1,151 @@
+Trait,Sex,Feature,Label,Importance_pct
+elongation,F,GDD,GDD,1.6561946650236474
+elongation,F,Tmax,T max,1.5996929312995665
+elongation,F,Tmin,T min,13.10630812503698
+elongation,F,night_hours,Night length,7.102137444112633
+elongation,F,PAR_midday,PPFD midday,0.4865492024572449
+elongation,F,DLI,DLI,1.1907812626309133
+elongation,F,RFR_midday,R:FR midday,0.8202283907104644
+elongation,F,PAR_morning,PPFD morning,1.4227688508622276
+elongation,F,PAR_afternoon,PPFD afternoon,1.7268215456451026
+elongation,F,RFR_morning,R:FR morning,36.950411008674024
+elongation,F,RFR_afternoon,R:FR afternoon,0.29926804368042575
+elongation,F,DTR,DTR,2.109694836411084
+elongation,F,precip_monthly,Precipitation,0.26071671004587715
+elongation,F,is_MO,System,0.005449097857673338
+elongation,F,is_cresc,Phase (growth),31.26297788555214
+elongation,M,GDD,GDD,0.8685571111515726
+elongation,M,Tmax,T max,9.986595644505798
+elongation,M,Tmin,T min,8.91934919656833
+elongation,M,night_hours,Night length,16.578718072336375
+elongation,M,PAR_midday,PPFD midday,1.6101094787694292
+elongation,M,DLI,DLI,0.5320651110251664
+elongation,M,RFR_midday,R:FR midday,2.204041329144504
+elongation,M,PAR_morning,PPFD morning,0.2788066233767505
+elongation,M,PAR_afternoon,PPFD afternoon,4.31500058661621
+elongation,M,RFR_morning,R:FR morning,16.123362620768145
+elongation,M,RFR_afternoon,R:FR afternoon,0.8837864845495906
+elongation,M,DTR,DTR,1.6124100165843955
+elongation,M,precip_monthly,Precipitation,0.7391842597592833
+elongation,M,is_MO,System,0.023810903618418512
+elongation,M,is_cresc,Phase (growth),35.32420256122602
+metamer_emission,F,GDD,GDD,5.322648653235408
+metamer_emission,F,Tmax,T max,0.11360474024225073
+metamer_emission,F,Tmin,T min,0.8923221289900729
+metamer_emission,F,night_hours,Night length,72.29167191659876
+metamer_emission,F,PAR_midday,PPFD midday,0.36521001668839775
+metamer_emission,F,DLI,DLI,0.946671478063553
+metamer_emission,F,RFR_midday,R:FR midday,1.8582920017145441
+metamer_emission,F,PAR_morning,PPFD morning,4.024718963026717
+metamer_emission,F,PAR_afternoon,PPFD afternoon,0.03091681393693247
+metamer_emission,F,RFR_morning,R:FR morning,1.9938314199787022
+metamer_emission,F,RFR_afternoon,R:FR afternoon,1.8259326462319572
+metamer_emission,F,DTR,DTR,0.513903947866168
+metamer_emission,F,precip_monthly,Precipitation,0.6692585547465711
+metamer_emission,F,is_MO,System,0.0
+metamer_emission,F,is_cresc,Phase (growth),9.151016718679982
+metamer_emission,M,GDD,GDD,15.757794527664654
+metamer_emission,M,Tmax,T max,0.6028426536547121
+metamer_emission,M,Tmin,T min,2.76443727619533
+metamer_emission,M,night_hours,Night length,38.84090034972923
+metamer_emission,M,PAR_midday,PPFD midday,1.0763329942586397
+metamer_emission,M,DLI,DLI,0.5430472122204621
+metamer_emission,M,RFR_midday,R:FR midday,1.2105607515518715
+metamer_emission,M,PAR_morning,PPFD morning,1.4761684592733895
+metamer_emission,M,PAR_afternoon,PPFD afternoon,1.2666108633751965
+metamer_emission,M,RFR_morning,R:FR morning,22.30799786570563
+metamer_emission,M,RFR_afternoon,R:FR afternoon,0.20368683072594349
+metamer_emission,M,DTR,DTR,7.173736930431643
+metamer_emission,M,precip_monthly,Precipitation,1.9752504104198758
+metamer_emission,M,is_MO,System,0.15161622584041767
+metamer_emission,M,is_cresc,Phase (growth),4.649016648952994
+leaf_increase,F,GDD,GDD,19.68703588719729
+leaf_increase,F,Tmax,T max,0.414847080488006
+leaf_increase,F,Tmin,T min,7.1638548976638186
+leaf_increase,F,night_hours,Night length,9.116075940518401
+leaf_increase,F,PAR_midday,PPFD midday,0.86976002436536
+leaf_increase,F,DLI,DLI,3.2834861922584495
+leaf_increase,F,RFR_midday,R:FR midday,1.913529095644706
+leaf_increase,F,PAR_morning,PPFD morning,20.489169796796066
+leaf_increase,F,PAR_afternoon,PPFD afternoon,0.41518845774958685
+leaf_increase,F,RFR_morning,R:FR morning,1.9537383681375955
+leaf_increase,F,RFR_afternoon,R:FR afternoon,0.10048177747588366
+leaf_increase,F,DTR,DTR,3.058317824245067
+leaf_increase,F,precip_monthly,Precipitation,0.5269991458741339
+leaf_increase,F,is_MO,System,0.0010546293976315098
+leaf_increase,F,is_cresc,Phase (growth),31.006460882187987
+leaf_increase,M,GDD,GDD,19.476007309590145
+leaf_increase,M,Tmax,T max,0.6000433561472988
+leaf_increase,M,Tmin,T min,2.5726700453993625
+leaf_increase,M,night_hours,Night length,12.629934009078358
+leaf_increase,M,PAR_midday,PPFD midday,1.4575421010482554
+leaf_increase,M,DLI,DLI,0.45326398514091165
+leaf_increase,M,RFR_midday,R:FR midday,2.0090834843168373
+leaf_increase,M,PAR_morning,PPFD morning,1.0673268733987928
+leaf_increase,M,PAR_afternoon,PPFD afternoon,1.4038768406209865
+leaf_increase,M,RFR_morning,R:FR morning,30.483762948983195
+leaf_increase,M,RFR_afternoon,R:FR afternoon,0.4762344586179145
+leaf_increase,M,DTR,DTR,14.805168698079408
+leaf_increase,M,precip_monthly,Precipitation,3.218847019857581
+leaf_increase,M,is_MO,System,0.07054813332269598
+leaf_increase,M,is_cresc,Phase (growth),9.275690736398259
+leaf_area_increase,F,GDD,GDD,0.9271963941162843
+leaf_area_increase,F,Tmax,T max,3.0189855419343705
+leaf_area_increase,F,Tmin,T min,3.0228896951138595
+leaf_area_increase,F,night_hours,Night length,3.970963787497616
+leaf_area_increase,F,PAR_midday,PPFD midday,3.1614500700866217
+leaf_area_increase,F,DLI,DLI,0.6210298927543548
+leaf_area_increase,F,RFR_midday,R:FR midday,0.19182318579739233
+leaf_area_increase,F,PAR_morning,PPFD morning,0.311237186273436
+leaf_area_increase,F,PAR_afternoon,PPFD afternoon,1.2994742357825173
+leaf_area_increase,F,RFR_morning,R:FR morning,47.03313540212598
+leaf_area_increase,F,RFR_afternoon,R:FR afternoon,32.23098973668316
+leaf_area_increase,F,DTR,DTR,0.39895265134856095
+leaf_area_increase,F,precip_monthly,Precipitation,0.6809808443696252
+leaf_area_increase,F,is_MO,System,0.0
+leaf_area_increase,F,is_cresc,Phase (growth),3.1308913761162267
+leaf_area_increase,M,GDD,GDD,0.37584594187690495
+leaf_area_increase,M,Tmax,T max,2.1067237887944428
+leaf_area_increase,M,Tmin,T min,17.88453262930249
+leaf_area_increase,M,night_hours,Night length,18.460853865980024
+leaf_area_increase,M,PAR_midday,PPFD midday,0.20838278337647337
+leaf_area_increase,M,DLI,DLI,0.6940098815639724
+leaf_area_increase,M,RFR_midday,R:FR midday,0.39234827017380813
+leaf_area_increase,M,PAR_morning,PPFD morning,0.5992311166438171
+leaf_area_increase,M,PAR_afternoon,PPFD afternoon,2.0271929787886793
+leaf_area_increase,M,RFR_morning,R:FR morning,34.94102571109835
+leaf_area_increase,M,RFR_afternoon,R:FR afternoon,2.3911806199973262
+leaf_area_increase,M,DTR,DTR,3.3702032183247495
+leaf_area_increase,M,precip_monthly,Precipitation,0.06897390583373018
+leaf_area_increase,M,is_MO,System,0.00031961664150894807
+leaf_area_increase,M,is_cresc,Phase (growth),16.479175671603716
+leaf_shed,F,GDD,GDD,8.847028410010871
+leaf_shed,F,Tmax,T max,27.610132499693
+leaf_shed,F,Tmin,T min,31.906220195397523
+leaf_shed,F,night_hours,Night length,13.480890561958564
+leaf_shed,F,PAR_midday,PPFD midday,1.0819023124375131
+leaf_shed,F,DLI,DLI,3.9518133841251717
+leaf_shed,F,RFR_midday,R:FR midday,0.7945446232541653
+leaf_shed,F,PAR_morning,PPFD morning,0.670147963910153
+leaf_shed,F,PAR_afternoon,PPFD afternoon,0.9499159224410223
+leaf_shed,F,RFR_morning,R:FR morning,1.429709115848404
+leaf_shed,F,RFR_afternoon,R:FR afternoon,0.7232337617857332
+leaf_shed,F,DTR,DTR,5.207620156893504
+leaf_shed,F,precip_monthly,Precipitation,3.3239198019581404
+leaf_shed,F,is_MO,System,0.02292129028624951
+leaf_shed,F,is_cresc,Phase (growth),0.0
+leaf_shed,M,GDD,GDD,6.742736577487977
+leaf_shed,M,Tmax,T max,28.299191925913608
+leaf_shed,M,Tmin,T min,2.4830775521368404
+leaf_shed,M,night_hours,Night length,24.749346615980723
+leaf_shed,M,PAR_midday,PPFD midday,3.355358745740005
+leaf_shed,M,DLI,DLI,1.8203411762944408
+leaf_shed,M,RFR_midday,R:FR midday,2.5201226771899083
+leaf_shed,M,PAR_morning,PPFD morning,2.4502941956442212
+leaf_shed,M,PAR_afternoon,PPFD afternoon,4.341680231041879
+leaf_shed,M,RFR_morning,R:FR morning,2.3019235190185516
+leaf_shed,M,RFR_afternoon,R:FR afternoon,5.363757452498545
+leaf_shed,M,DTR,DTR,7.236179648293545
+leaf_shed,M,precip_monthly,Precipitation,7.866795974806587
+leaf_shed,M,is_MO,System,0.0
+leaf_shed,M,is_cresc,Phase (growth),0.4691937079531734

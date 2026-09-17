@@ -1,0 +1,106 @@
+Variable,Light_feature,Group,n,r,p,sig
+Shoot elongation,PPFD morning,All,2250,0.219,8.358663576292286e-26,***
+Shoot elongation,PPFD midday,All,2250,0.176,4.3870000847593046e-17,***
+Shoot elongation,PPFD afternoon,All,2250,0.113,7.351118829891116e-08,***
+Shoot elongation,R:FR morning,All,2250,0.055,0.008855340310268012,**
+Shoot elongation,R:FR midday,All,2250,0.039,0.061788408099171896,n.s.
+Shoot elongation,R:FR afternoon,All,2250,0.055,0.009580556848881466,**
+Shoot elongation,DLI,All,2250,0.182,2.9008577479411546e-18,***
+Shoot elongation,PPFD morning,Females,1050,0.347,3.663270493920165e-31,***
+Shoot elongation,PPFD midday,Females,1050,0.279,2.911060387076715e-20,***
+Shoot elongation,PPFD afternoon,Females,1050,0.2,6.067502204997417e-11,***
+Shoot elongation,R:FR morning,Females,1050,0.171,2.3626450726394634e-08,***
+Shoot elongation,R:FR midday,Females,1050,0.126,4.363498095411869e-05,***
+Shoot elongation,R:FR afternoon,Females,1050,0.138,7.757888647557126e-06,***
+Shoot elongation,DLI,Females,1050,0.293,2.8285801753963736e-22,***
+Shoot elongation,PPFD morning,Males,1200,0.069,0.016257037931507574,*
+Shoot elongation,PPFD midday,Males,1200,0.056,0.05356467149988987,n.s.
+Shoot elongation,PPFD afternoon,Males,1200,0.004,0.8917632624878169,n.s.
+Shoot elongation,R:FR morning,Males,1200,-0.074,0.010335054494504475,*
+Shoot elongation,R:FR midday,Males,1200,-0.065,0.025115206715784752,*
+Shoot elongation,R:FR afternoon,Males,1200,-0.047,0.10694271466922445,n.s.
+Shoot elongation,DLI,Males,1200,0.054,0.062202170160223474,n.s.
+Metamer emission,PPFD morning,All,2250,0.211,5.260866569939992e-24,***
+Metamer emission,PPFD midday,All,2250,0.182,2.7287873400724653e-18,***
+Metamer emission,PPFD afternoon,All,2250,0.139,3.175885524904072e-11,***
+Metamer emission,R:FR morning,All,2250,0.107,3.9810223781472644e-07,***
+Metamer emission,R:FR midday,All,2250,0.082,9.11959652754461e-05,***
+Metamer emission,R:FR afternoon,All,2250,0.089,2.378247110256136e-05,***
+Metamer emission,DLI,All,2250,0.186,4.815255986864452e-19,***
+Metamer emission,PPFD morning,Females,1050,0.26,1.2478653181407755e-17,***
+Metamer emission,PPFD midday,Females,1050,0.219,6.561042871471514e-13,***
+Metamer emission,PPFD afternoon,Females,1050,0.169,3.619242991301326e-08,***
+Metamer emission,R:FR morning,Females,1050,0.137,8.201318994236465e-06,***
+Metamer emission,R:FR midday,Females,1050,0.097,0.0016196672657480585,**
+Metamer emission,R:FR afternoon,Females,1050,0.101,0.0010436210825049222,**
+Metamer emission,DLI,Females,1050,0.228,8.279159266171358e-14,***
+Metamer emission,PPFD morning,Males,1200,0.157,4.6239810177948124e-08,***
+Metamer emission,PPFD midday,Males,1200,0.139,1.3753065849123114e-06,***
+Metamer emission,PPFD afternoon,Males,1200,0.098,0.0006847930821877568,***
+Metamer emission,R:FR morning,Males,1200,0.065,0.025455008085569317,*
+Metamer emission,R:FR midday,Males,1200,0.05,0.08304897823562496,n.s.
+Metamer emission,R:FR afternoon,Males,1200,0.059,0.03963747846174741,*
+Metamer emission,DLI,Males,1200,0.139,1.3530845530226545e-06,***
+Leaf number increase,PPFD morning,All,2250,0.261,1.9840037362851626e-36,***
+Leaf number increase,PPFD midday,All,2250,0.221,2.1825174255225784e-26,***
+Leaf number increase,PPFD afternoon,All,2250,0.167,1.4510399470733268e-15,***
+Leaf number increase,R:FR morning,All,2250,0.14,2.6380092979834867e-11,***
+Leaf number increase,R:FR midday,All,2250,0.117,2.346374223970385e-08,***
+Leaf number increase,R:FR afternoon,All,2250,0.124,4.123699522119509e-09,***
+Leaf number increase,DLI,All,2250,0.227,1.0075446162858007e-27,***
+Leaf number increase,PPFD morning,Females,1050,0.295,1.6566289533879403e-22,***
+Leaf number increase,PPFD midday,Females,1050,0.239,3.986857587238172e-15,***
+Leaf number increase,PPFD afternoon,Females,1050,0.186,1.3376250618983472e-09,***
+Leaf number increase,R:FR morning,Females,1050,0.157,3.3333498669084e-07,***
+Leaf number increase,R:FR midday,Females,1050,0.117,0.00015236317069779618,***
+Leaf number increase,R:FR afternoon,Females,1050,0.12,0.0001014263353337443,***
+Leaf number increase,DLI,Females,1050,0.252,1.2267099179947428e-16,***
+Leaf number increase,PPFD morning,Males,1200,0.217,2.7756737621436462e-14,***
+Leaf number increase,PPFD midday,Males,1200,0.193,1.6984659070874157e-11,***
+Leaf number increase,PPFD afternoon,Males,1200,0.131,5.051118817410283e-06,***
+Leaf number increase,R:FR morning,Males,1200,0.106,0.0002197728044167416,***
+Leaf number increase,R:FR midday,Males,1200,0.097,0.0007260815053406166,***
+Leaf number increase,R:FR afternoon,Males,1200,0.107,0.00019886569307420756,***
+Leaf number increase,DLI,Males,1200,0.191,2.3426804200560325e-11,***
+Leaf area increase,PPFD morning,All,2250,0.227,1.046174839883599e-27,***
+Leaf area increase,PPFD midday,All,2250,0.166,2.0264132070142663e-15,***
+Leaf area increase,PPFD afternoon,All,2250,0.103,1.0946095266551485e-06,***
+Leaf area increase,R:FR morning,All,2250,-0.012,0.5555118304180607,n.s.
+Leaf area increase,R:FR midday,All,2250,0.017,0.4212217999670851,n.s.
+Leaf area increase,R:FR afternoon,All,2250,0.011,0.5941605853694202,n.s.
+Leaf area increase,DLI,All,2250,0.176,3.8932454056754924e-17,***
+Leaf area increase,PPFD morning,Females,1050,0.329,6.930053993948103e-28,***
+Leaf area increase,PPFD midday,Females,1050,0.242,1.7692647964295668e-15,***
+Leaf area increase,PPFD afternoon,Females,1050,0.171,2.552779309352011e-08,***
+Leaf area increase,R:FR morning,Females,1050,0.068,0.02717197477495278,*
+Leaf area increase,R:FR midday,Females,1050,0.062,0.04514127742372445,*
+Leaf area increase,R:FR afternoon,Females,1050,0.06,0.05118777136092867,n.s.
+Leaf area increase,DLI,Females,1050,0.261,8.518499626528791e-18,***
+Leaf area increase,PPFD morning,Males,1200,0.149,2.2241455110259992e-07,***
+Leaf area increase,PPFD midday,Males,1200,0.112,0.0001004367662677153,***
+Leaf area increase,PPFD afternoon,Males,1200,0.048,0.09962147331698565,n.s.
+Leaf area increase,R:FR morning,Males,1200,-0.08,0.005343847200887533,**
+Leaf area increase,R:FR midday,Males,1200,-0.017,0.551301400134864,n.s.
+Leaf area increase,R:FR afternoon,Males,1200,-0.028,0.3251968748312219,n.s.
+Leaf area increase,DLI,Males,1200,0.114,7.934404580128784e-05,***
+Leaf shed,PPFD morning,All,2250,0.053,0.012040620491854654,*
+Leaf shed,PPFD midday,All,2250,0.059,0.005242670663129322,**
+Leaf shed,PPFD afternoon,All,2250,0.016,0.43723352862004644,n.s.
+Leaf shed,R:FR morning,All,2250,0.078,0.00019813521078270197,***
+Leaf shed,R:FR midday,All,2250,0.074,0.0004236232090573552,***
+Leaf shed,R:FR afternoon,All,2250,0.064,0.002369908156383907,**
+Leaf shed,DLI,All,2250,0.047,0.02657440636569283,*
+Leaf shed,PPFD morning,Females,1050,0.055,0.07552479211710966,n.s.
+Leaf shed,PPFD midday,Females,1050,0.064,0.03675320589954735,*
+Leaf shed,PPFD afternoon,Females,1050,0.01,0.7436832752661542,n.s.
+Leaf shed,R:FR morning,Females,1050,0.086,0.0051759140030707175,**
+Leaf shed,R:FR midday,Females,1050,0.084,0.006214519567480534,**
+Leaf shed,R:FR afternoon,Females,1050,0.076,0.013612369300797164,*
+Leaf shed,DLI,Females,1050,0.049,0.11336898877499185,n.s.
+Leaf shed,PPFD morning,Males,1200,0.039,0.17912734816666184,n.s.
+Leaf shed,PPFD midday,Males,1200,0.041,0.15554091800791225,n.s.
+Leaf shed,PPFD afternoon,Males,1200,0.007,0.8050131521342788,n.s.
+Leaf shed,R:FR morning,Males,1200,0.062,0.032089844615196525,*
+Leaf shed,R:FR midday,Males,1200,0.055,0.056829244135515426,n.s.
+Leaf shed,R:FR afternoon,Males,1200,0.041,0.1539768720199917,n.s.
+Leaf shed,DLI,Males,1200,0.031,0.27689888959562214,n.s.
