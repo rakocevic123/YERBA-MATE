@@ -1,8 +1,0 @@
-Trait,CV_R2,top_driver,top_pct
-A,0.355,PPFD midday,81.0
-gs,0.26,R:FR midday,51.1
-E,0.51,PPFD midday,72.4
-WUE,0.107,R:FR midday,70.6
-iWUE,0.312,PPFD midday,75.9
-LUE,-0.006,PPFD midday,55.3
-deltaT,0.064,R:FR midday,64.5
